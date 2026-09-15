@@ -1,5 +1,5 @@
 #write a program to calculate the avergae of a given list
-l = [1, 2, 3, 4, 5]
+l = [10, 20, 30, 40, 50]
 sum = 0
 for n in l:
     sum += n  
